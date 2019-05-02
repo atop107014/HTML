@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Vincent</title>
+	<style>
+		h1 {
+			color: blue;
+			background-color: yellow;
+			border: 1px solid black;
+		}
+
+		p {
+			color: green;
+		}
+	</style>
+</head>
+
+<body>
+
+	<div>
+		<h1 style="color:green">SAMPLE</h1>
+		<h2>This is Sample H2</h2>
+		<h1>Vincent!!!!!!!!!!!</h1>
+	</div>
+
+</body>
+
+</html>
